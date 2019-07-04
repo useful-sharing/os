@@ -11,7 +11,7 @@
 ### 精简优化(预装非推广类常用软件)
 * [Windsys](https://windsys.whatk.me)
 * [吻妻Win7](http://www.newxitong.com)
-* [吻妻Win7](http://iwin10.net)
+* [吻妻Win10](http://iwin10.net)
 
 ### WinPE
 * [FirPE](http://firpe.cn)

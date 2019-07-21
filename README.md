@@ -6,6 +6,7 @@
 ### 精简优化(无预装)
 * [十二星座](http://www.12xzzx.com)
 * [Y-OS](http://y-os.net)(十二星座旗下)
+* [Windows Pure](http://puddhuuh.tk/?cat=4)
 * [WINOS](https://www.winos.me)(精简系统)
 
 ### 精简优化(预装非推广类常用软件)

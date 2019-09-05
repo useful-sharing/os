@@ -18,3 +18,22 @@
 * [FirPE](http://firpe.cn)
 * [Edgeless](https://www.edgeless.top)
 * [USM](http://www.usbrun.com)
+
+## Linux 发行版（部分常用）
+### RedHat 体系
+* [RHEL](https://developers.redhat.com/topics/linux/)
+* [CentOS](https://www.centos.org/)
+* [Fedora](https://getfedora.org/)
+* [Oracle Linux](https://www.oracle.com/linux/)
+
+### Debian & Ubuntu 体系
+* [Debian](https://www.debian.org/)
+* [Ubuntu](https://ubuntu.com/)
+* [LinuxMint](https://www.linuxmint.com/)
+* [Deepin](https://www.deepin.org/)(本地化)
+* [UbuntuKylin](https://www.ubuntukylin.com/)(本地化)
+* [elementaryOS](https://elementaryos.cn/)(本地化)
+
+### 其它
+* [ArchLinux](https://www.archlinux.org/)
+* [Manjaro](https://www.manjaro.org/)
